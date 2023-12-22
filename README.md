@@ -34,8 +34,6 @@ I'm a self-taught passionate FrontEnd developer from Brazil
 | <a href="https://github.com/JCARLOS3009?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JCARLOS3009&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jose's github stats" /></a> | <a href="https://github.com/JCARLOS3009/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCARLOS3009&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
 
 
 
