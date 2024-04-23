@@ -20,7 +20,7 @@ I'm a self-taught passionate FrontEnd developer from Brazil
   
 - 📫 How to reach me https://www.linkedin.com/in/jos%C3%A9-carlos-barreto-filho-50220a23b/
 
-- 💼 FrontEnd Engineer at [Paraíso Distribuidora](https://www.poderosabeleza.com.br/)
+- 💼 FrontEnd Engineer 
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
