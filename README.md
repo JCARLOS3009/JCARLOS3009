@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 I'm a self-taught passionate FrontEnd developer from Brazil
 
 **About me**
-- 👋 Hi, I’m @JCARLOS3009
+- 👋 Hi, I’m José Carlos
   
 - 👀 I’m interested in Data Science and Web Development
   
