@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from Brazil
+I'm a self-taught passionate Full Stack developer from Brazil
 
 **About me**
 - 👋 Hi, I’m José Carlos
@@ -20,7 +20,7 @@ I'm a self-taught passionate FrontEnd developer from Brazil
   
 - 📫 How to reach me https://www.linkedin.com/in/jos%C3%A9-carlos-barreto-filho-50220a23b/
 
-- 💼 FrontEnd Engineer 
+- 💼 Full Stack Engineer 
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
