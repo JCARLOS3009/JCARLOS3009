@@ -16,7 +16,7 @@ I'm a self-taught passionate FrontEnd developer from Brazil
   
 - 🌱 I’m currently learning Python, Power BI, Google Data Studio
   
-- 💞️ I’m looking to collaborate on BIM tecnologies, data science and big data
+- 💞️ I’m looking to collaborate on Web Development, BIM tecnologies, data science and big data
   
 - 📫 How to reach me https://www.linkedin.com/in/jos%C3%A9-carlos-barreto-filho-50220a23b/
 
